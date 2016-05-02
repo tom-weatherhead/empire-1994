@@ -1,0 +1,8 @@
+// empire.rc
+// (C) Copyright 1994 by Tom Weatherhead
+
+//#include <windows.h>
+//#include <owlrc.h>
+
+
+EmpireIcon ICON empire.ico
